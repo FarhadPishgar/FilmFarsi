@@ -22,6 +22,44 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 Adopting
 
+### Gavaznha <img src="man/figure/palettes/gavaznha.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 7.9/10
+
+Year: 1974
+
+Director: Masud Kimiai
+
+Writer: Masud Kimiai
+
+Stars: Behrouz Vossoughi, Faramarz Gharibian, and Nosrat Partovi
+
+Palette: `gavaznha`
+
+Palette: `deer`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki%20khosh%20seda%2C%20yeki%20khosh%20dast.png" align="right" width="452" />
 
 <br><br><br><br><br>
