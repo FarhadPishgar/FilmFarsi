@@ -42,6 +42,18 @@ Palette: `yeki-khosh-seda-yeki-khosh-dast`
 
 Palette: `yeki`
 
+<br><br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+```
+
+
 ## Acknowledgments
 The
 
