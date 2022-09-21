@@ -22,7 +22,7 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 ## Palettes
 
-Adopting
+The `FilmFarsi` package includes more than 25 color palettes to choose from.
 
 ### Gavaznha <img src="man/figure/palettes/gavaznha.png" align="right" width="452" />
 
