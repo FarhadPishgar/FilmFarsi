@@ -18,9 +18,11 @@ The latest (though unstable) version of the `FilmFarsi` package can be installed
 devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 ```
 
-## Suggested Workflow
+## Palettes
 
 Adopting
+
+#### Gavaznha
 
 ## Acknowledgments
 The
