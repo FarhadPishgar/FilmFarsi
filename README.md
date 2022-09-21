@@ -34,7 +34,7 @@ Year: 1978
 
 Director: Amir Naderi
 
-Writer: Masud Kimiai
+Writer: Amir Naderi
 
 Star: Manoucher Ahmadi
 
