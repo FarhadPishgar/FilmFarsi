@@ -22,7 +22,7 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 Adopting
 
-### Yeki Khosh Seda, Yeki Khosh Dast (1977) <img src="man/figure/yeki%20khosh%20seda,%20yeki%20khosh%20dast.png" align="right" width="450" />
+### Yeki Khosh Seda, Yeki Khosh Dast (1977) <img src="man/figure/yeki khosh seda, yeki khosh dast.png" align="right" width="450" />
 
 IMDb Rating: 5.2/10
 
