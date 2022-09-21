@@ -177,6 +177,43 @@ library(FilmFarsi)
 
 ```
 
+### Ajal-e Moallagh <img src="man/figure/palettes/ajal-e%20moallagh.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: ./10
+
+Year: 1970
+
+Director: Nosratolah Vahdat
+
+Writer: Nosratolah Vahdat
+
+Star: Nosratolah Vahdat
+
+Palette: `ajal-e-moallagh`
+
+Palette: `ajal`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
 
 ## Acknowledgments
 The
