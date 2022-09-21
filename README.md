@@ -1,14 +1,15 @@
 # FilmFarsi <img src="man/figure/logo.png" align="right" width="150" />
 
 <!-- badges: start -->
-#### Celebration of Iranian Cinema
+#### Celebration of Pre-revolutionary Iranian Cinema
 <!-- badges: end -->
 
 [![](https://img.shields.io/badge/github%20version-0.0.1-success.svg?color=orange&style=for-the-badge)](https://github.com/FarhadPishgar/FilmFarsi)
 
 ## Introduction
 
-One
+The term FilmFarsi (or فیلمفارسی) was first used by the film critic Hushang Kavusi to refer to the movies casted before the 1979 revolution in Iran, which were mainly characterized with dance and singing.
+The `FilmFarsi` package
 
 ## Installation
 
