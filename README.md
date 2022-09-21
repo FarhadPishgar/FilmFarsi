@@ -22,9 +22,9 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 Adopting
 
-### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki%20khosh%20seda%2C%20yeki%20khosh%20dast.png" align="right" width="450" />
+### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki%20khosh%20seda%2C%20yeki%20khosh%20dast.png" align="right" width="452" />
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 IMDb Rating: 5.2/10
 
@@ -35,8 +35,6 @@ Director: Reza Safai
 Writer: Saeed Motalebi
 
 Stars: Reza Beyk Imanverdi, Nematollah Aghasi, and Zhila Shahani
-
-<br>
 
 Palette: `yeki-khosh-seda-yeki-khosh-dast`
 
@@ -49,6 +47,7 @@ Example:
 ``` r
 library(ggplot2)
 library(FilmFarsi)
+
 
 
 
