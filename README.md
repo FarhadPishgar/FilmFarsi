@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The term FilmFarsi (or فیلمفارسی) was first used by the film critic Hushang Kavusi to refer to the movies casted before the 1979 revolution in Iran, which were mainly characterized with dance and singing.
+The term FilmFarsi (or فیلمفارسی in Persian) was first used by the film critic Hushang Kavusi to refer to the popular cinema before the 1979 Iranian revolution, in which movies were characterized by ‘song and dance, sex and seduction, violence and vengeance’ blended with Iranian ‘local flavour’ .
 The `FilmFarsi` package
 
 ## Installation
