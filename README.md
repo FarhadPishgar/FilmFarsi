@@ -181,7 +181,7 @@ library(FilmFarsi)
 
 <br><br><br><br><br>
 
-IMDb Rating: ./10
+IMDb Rating: ?/10
 
 Year: 1970
 
