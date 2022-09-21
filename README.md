@@ -36,7 +36,7 @@ Director: Masud Kimiai
 
 Writer: Masud Kimiai
 
-Stars: Behrouz Vossoughi, Faramarz Gharibian, and Nosrat Partovi
+Star: Behrouz Vossoughi
 
 Palette: `gavaznha`
 
@@ -74,7 +74,7 @@ Director: Reza Safai
 
 Writer: Saeed Motalebi
 
-Stars: Reza Beyk Imanverdi, Nematollah Aghasi, and Zhila Shahani
+Star: Reza Beyk Imanverdi
 
 Palette: `yeki-khosh-seda-yeki-khosh-dast`
 
