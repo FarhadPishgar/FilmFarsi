@@ -100,7 +100,7 @@ library(FilmFarsi)
 
 ```
 
-### Raghaseyeh Shahr <img src="man/figure/palettes/raghaseyeh%20shahr.png" align="right" width="452" />
+### Raghaseye Shahr <img src="man/figure/palettes/raghaseye%20shahr.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
@@ -114,9 +114,9 @@ Writer: Reza Mirlohi
 
 Star: Fourouzan
 
-Palette: `raghaseyeh-shahr`
+Palette: `raghaseye-shahr`
 
-Palette: `raghaseyeh`
+Palette: `raghaseye`
 
 <br>
 
