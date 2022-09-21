@@ -22,7 +22,13 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 Adopting
 
-#### Gavaznha
+### Yeki Khosh Seda, Yeki Khosh Dast (1977)
+
+IMDb Rating: 5.2/10
+
+Director: Reza Safai
+
+Stars: Reza Beyk Imanverdi, Nematollah Aghasi, and Zhila Shahani
 
 ## Acknowledgments
 The
