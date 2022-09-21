@@ -24,6 +24,44 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 The `FilmFarsi` package includes more than 25 different color palettes to choose from.
 
+### Marsieh <img src="man/figure/palettes/marsieh.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 7.4/10
+
+Year: 1978
+
+Director: Amir Naderi
+
+Writer: Masud Kimiai
+
+Star: Manoucher Ahmadi
+
+Palette: `marsieh`
+
+Palette: `requiem`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Gavaznha <img src="man/figure/palettes/gavaznha.png" align="right" width="452" />
 
 <br><br><br><br><br>
