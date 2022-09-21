@@ -8,9 +8,9 @@
 
 ## Introduction
 
-The term FilmFarsi (or فیلمفارسی in Persian) was first used by the film critic Hushang Kavusi to refer to the popular cinema before the Iranian revolution, in which movies were characterized by ‘song and dance, sex and seduction, violence and vengeance’ blended with Iranian ‘local flavour’ .
+The term FilmFarsi (or فیلمفارسی in Persian) was first used by the film critic [Houshang Kavoosi](https://fa.wikipedia.org/wiki/هوشنگ_کاووسی) to refer to the popular cinema before the Iranian revolution, in which movies were characterized by ‘song and dance, sex and seduction, violence and vengeance’ blended with Iranian ‘local flavour’ .
 
-The `FilmFarsi` package
+The `FilmFarsi` package includes color palettes inspired by some of these movies.
 
 ## Installation
 
