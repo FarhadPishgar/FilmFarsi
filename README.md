@@ -9,3 +9,23 @@
 ## Introduction
 
 One
+
+## Installation
+
+The latest (though unstable) version of the [`FilmFarsi`] package can be installed from GitHub as follows:
+
+``` r
+devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
+```
+
+## Suggested Workflow
+
+Adopting
+
+## Acknowledgments
+The
+
+## Author
+Farhad Pishgar
+
+[![](https://img.shields.io/twitter/follow/FarhadPishgar.svg?color=orange&style=for-the-badge)](https://twitter.com/FarhadPishgar)
