@@ -24,7 +24,7 @@ Adopting
 
 ### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki%20khosh%20seda%2C%20yeki%20khosh%20dast.png" align="right" width="450" />
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 IMDb Rating: 5.2/10
 
@@ -36,19 +36,23 @@ Writer: Saeed Motalebi
 
 Stars: Reza Beyk Imanverdi, Nematollah Aghasi, and Zhila Shahani
 
-<br><br>
+<br>
 
 Palette: `yeki-khosh-seda-yeki-khosh-dast`
 
 Palette: `yeki`
 
-<br><br>
+<br>
 
 Example:
 
 ``` r
 library(ggplot2)
 library(FilmFarsi)
+
+
+
+
 
 
 ```
