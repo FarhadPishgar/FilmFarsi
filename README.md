@@ -215,6 +215,44 @@ library(FilmFarsi)
 
 ```
 
+### Kandu <img src="man/figure/palettes/kandu.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 7.4/10
+
+Year: 1975
+
+Director: Fereydoun Gole
+
+Writer: Fereydoun Gole
+
+Star: Behrouz Vossoughi
+
+Palette: `kandu`
+
+Palette: `beehive`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Navvab <img src="man/figure/palettes/navvab.png" align="right" width="452" />
 
 <br><br><br><br><br>
