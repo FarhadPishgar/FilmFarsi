@@ -215,6 +215,44 @@ library(FilmFarsi)
 
 ```
 
+### Khashm-e Oghabha <img src="man/figure/palettes/khashm-e%20oghabha.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 3.6/10
+
+Year: 1970
+
+Director: Iraj Ghaderi
+
+Writer: Fereydoun Gole
+
+Star: Iraj Ghaderi
+
+Palette: `khashm-e-oghabha`
+
+Palette: `khashm`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ## Acknowledgments
 The
 
