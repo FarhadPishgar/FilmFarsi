@@ -14,7 +14,7 @@ The `FilmFarsi` package presents color palettes inspired by posters of some of p
 
 ## Installation
 
-The latest (though unstable) version of the `FilmFarsi` package can be installed from GitHub as follows:
+The latest version of the `FilmFarsi` package can be installed from GitHub as follows:
 
 ``` r
 devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
