@@ -215,6 +215,42 @@ library(FilmFarsi)
 
 ```
 
+### Navvab <img src="man/figure/palettes/Navvab.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: ?/10
+
+Year: 1972
+
+Director: Javad Taheri
+
+Writer: Habibollah Kasmai
+
+Star: Manoochehr Vossoogh
+
+Palette: `navvab`
+
+<br><br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Khashm-e Oghabha <img src="man/figure/palettes/khashm-e%20oghabha.png" align="right" width="452" />
 
 <br><br><br><br><br>
