@@ -138,6 +138,44 @@ library(FilmFarsi)
 
 ```
 
+### Reza Motori <img src="man/figure/palettes/reza.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 6.6/10
+
+Year: 1970
+
+Director: Masud Kimiai
+
+Writer: Masud Kimiai
+
+Star: Behrouz Vossoughi
+
+Palette: `reza-motori`
+
+Palette: `reza`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Raghaseye Shahr <img src="man/figure/palettes/raghaseye.png" align="right" width="452" />
 
 <br><br><br><br><br>
@@ -175,7 +213,6 @@ library(FilmFarsi)
 
 
 ```
-
 
 ### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki.png" align="right" width="452" />
 
