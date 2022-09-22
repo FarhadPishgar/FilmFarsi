@@ -24,6 +24,44 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 The `FilmFarsi` package includes more than 25 different color palettes to choose from.
 
+### The Cow <img src="man/figure/palettes/gav.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 7.9/10
+
+Year: 1969
+
+Director: Dariush Mehrjui
+
+Writer: Dariush Mehrjui
+
+Star: Ezzatolah Entezami
+
+Palette: `gav`
+
+Palette: `cow`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Marsieh <img src="man/figure/palettes/marsieh.png" align="right" width="452" />
 
 <br><br><br><br><br>
