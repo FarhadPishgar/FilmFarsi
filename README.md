@@ -4,7 +4,7 @@
 #### Celebration of Pre-revolutionary Iranian Cinema
 <!-- badges: end -->
 
-[![](https://img.shields.io/badge/github%20version-0.0.1-success.svg?color=orange&style=for-the-badge)](https://github.com/FarhadPishgar/FilmFarsi)
+[![](https://img.shields.io/badge/github%20version-0.0.1-success.svg?color=b12c3f&style=for-the-badge)](https://github.com/FarhadPishgar/FilmFarsi)
 
 ## Introduction
 
@@ -369,4 +369,4 @@ The
 ## Author
 Farhad Pishgar
 
-[![](https://img.shields.io/twitter/follow/FarhadPishgar.svg?color=orange&style=for-the-badge)](https://twitter.com/FarhadPishgar)
+[![](https://img.shields.io/twitter/follow/FarhadPishgar.svg?color=b12c3f&style=for-the-badge)](https://twitter.com/FarhadPishgar)
