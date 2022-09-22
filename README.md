@@ -215,25 +215,23 @@ library(FilmFarsi)
 
 ```
 
-### Ajal-e Moallagh <img src="man/figure/palettes/ajal.png" align="right" width="452" />
+### Salome <img src="man/figure/palettes/salome.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
-IMDb Rating: -
+IMDb Rating: 3.9/10
 
-Year: 1970
+Year: 1974
 
-Director: Nosratolah Vahdat
+Director: Fereydoun Jourak
 
-Writer: Nosratolah Vahdat
+Writer: Sirus Alvand
 
-Star: Nosratolah Vahdat
+Star: Marjan
 
-Palette: `ajal-e-moallagh`
+Palette: `salome`
 
-Palette: `ajal`
-
-<br>
+<br><br>
 
 Example:
 
