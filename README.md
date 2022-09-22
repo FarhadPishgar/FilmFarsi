@@ -100,7 +100,7 @@ library(FilmFarsi)
 
 ```
 
-### Raghaseye Shahr <img src="man/figure/palettes/raghaseye%20shahr.png" align="right" width="452" />
+### Raghaseye Shahr <img src="man/figure/palettes/raghaseye.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
@@ -139,7 +139,7 @@ library(FilmFarsi)
 ```
 
 
-### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki%20khosh%20seda%2C%20yeki%20khosh%20dast.png" align="right" width="452" />
+### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
@@ -177,7 +177,7 @@ library(FilmFarsi)
 
 ```
 
-### Ajal-e Moallagh <img src="man/figure/palettes/ajal-e%20moallagh.png" align="right" width="452" />
+### Ajal-e Moallagh <img src="man/figure/palettes/ajal.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
@@ -251,7 +251,7 @@ library(FilmFarsi)
 
 ```
 
-### Khashm-e Oghabha <img src="man/figure/palettes/khashm-e%20oghabha.png" align="right" width="452" />
+### Khashm-e Oghabha <img src="man/figure/palettes/khashm.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
