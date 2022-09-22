@@ -215,7 +215,7 @@ library(FilmFarsi)
 
 ```
 
-### Navvab <img src="man/figure/palettes/Navvab.png" align="right" width="452" />
+### Navvab <img src="man/figure/palettes/navvab.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
