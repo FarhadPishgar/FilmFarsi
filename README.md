@@ -330,7 +330,7 @@ library(FilmFarsi)
 
 <br><br><br><br><br>
 
-IMDb Rating: ?/10
+IMDb Rating: -
 
 Year: 1972
 
