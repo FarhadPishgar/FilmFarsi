@@ -192,7 +192,7 @@ Star: Fourouzan
 
 Palette: `raghaseye-shahr`
 
-Palette: `raghaseye`
+Palette: `raghase`
 
 <br>
 
@@ -362,7 +362,7 @@ library(FilmFarsi)
 
 ```
 
-### Khashm-e Oghabha <img src="man/figure/palettes/khashm.png" align="right" width="452" />
+### Khashme Oghabha <img src="man/figure/palettes/khashme.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
@@ -376,9 +376,47 @@ Writer: Fereydoun Gole
 
 Star: Iraj Ghaderi
 
-Palette: `khashm-e-oghabha`
+Palette: `khashme-oghabha`
 
 Palette: `khashm`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
+### Morghe Tokhm Tala <img src="man/figure/palettes/morghe.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 5.7/10
+
+Year: 1972
+
+Director: Mehdi Raeis-Firooz
+
+Writer: Parviz Khatibi
+
+Star: Homayoon
+
+Palette: `morghe-tokhm-tala`
+
+Palette: `morgh`
 
 <br>
 
