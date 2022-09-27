@@ -256,7 +256,7 @@ library(FilmFarsi)
 
 <br><br><br><br><br>
 
-IMDb Rating: 3.9/10
+IMDb Rating: 7.0/10
 
 Year: 1968
 
