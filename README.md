@@ -22,7 +22,7 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 ## Palettes
 
-The `FilmFarsi` package includes more than 25 different color palettes to choose from.
+The `FilmFarsi` package includes more than 10 different color palettes to choose from.
 
 ### The Cow <img src="man/figure/palettes/gav.png" align="right" width="452" />
 
