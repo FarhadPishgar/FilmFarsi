@@ -252,6 +252,44 @@ library(FilmFarsi)
 
 ```
 
+### Soltane Ghalbha <img src="man/figure/palettes/soltane.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 3.9/10
+
+Year: 1968
+
+Director: Fardin
+
+Writer: Fardin
+
+Star: Fardin
+
+Palette: `soltane-ghalbha`
+
+Palette: `soltan`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Salome <img src="man/figure/palettes/salome.png" align="right" width="452" />
 
 <br><br><br><br><br>
