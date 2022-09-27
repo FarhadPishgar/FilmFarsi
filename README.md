@@ -326,6 +326,44 @@ library(FilmFarsi)
 
 ```
 
+### Morghe Tokhm Tala <img src="man/figure/palettes/morghe.png" align="right" width="452" />
+
+<br><br><br><br><br>
+
+IMDb Rating: 5.7/10
+
+Year: 1972
+
+Director: Mehdi Raeis-Firooz
+
+Writer: Parviz Khatibi
+
+Star: Homayoon
+
+Palette: `morghe-tokhm-tala`
+
+Palette: `morgh`
+
+<br>
+
+Example:
+
+``` r
+library(ggplot2)
+library(FilmFarsi)
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Navvab <img src="man/figure/palettes/navvab.png" align="right" width="452" />
 
 <br><br><br><br><br>
@@ -379,44 +417,6 @@ Star: Iraj Ghaderi
 Palette: `khashme-oghabha`
 
 Palette: `khashm`
-
-<br>
-
-Example:
-
-``` r
-library(ggplot2)
-library(FilmFarsi)
-
-
-
-
-
-
-
-
-
-
-
-```
-
-### Morghe Tokhm Tala <img src="man/figure/palettes/morghe.png" align="right" width="452" />
-
-<br><br><br><br><br>
-
-IMDb Rating: 5.7/10
-
-Year: 1972
-
-Director: Mehdi Raeis-Firooz
-
-Writer: Parviz Khatibi
-
-Star: Homayoon
-
-Palette: `morghe-tokhm-tala`
-
-Palette: `morgh`
 
 <br>
 
