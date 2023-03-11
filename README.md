@@ -128,14 +128,16 @@ Example:
 
 ``` r
 library(ggplot2)
+library(MatchThem)
 library(FilmFarsi)
 
-
-
-
-
-
-
+ggplot(osteoarthritis, aes(x=SEX, y=AGE, fill = SEX)) + 
+  geom_boxplot() +
+  theme_classic() +
+  theme(legend.position="none") +
+  scale_x_discrete(labels=c("1" = "Female", "2" = "Male")) +
+  labs(title="Age of participants",x="Sex", y = "Age (year)") +
+  scale_fill_manual(values = FilmFarsi("gavaznha"))
 
 
 
