@@ -40,7 +40,7 @@ Star: Ezzatolah Entezami
 
 Palette: `gav`
 
-Palette: `cow`
+
 
 <br>
 
@@ -78,7 +78,7 @@ Star: Manoucher Ahmadi
 
 Palette: `marsieh`
 
-Palette: `requiem`
+
 
 <br>
 
@@ -116,7 +116,7 @@ Star: Behrouz Vossoughi
 
 Palette: `gavaznha`
 
-Palette: `deer`
+
 
 <br>
 
@@ -152,9 +152,9 @@ Writer: Masud Kimiai
 
 Star: Behrouz Vossoughi
 
-Palette: `reza-motori`
-
 Palette: `reza`
+
+
 
 <br>
 
@@ -190,9 +190,9 @@ Writer: Reza Mirlohi
 
 Star: Fourouzan
 
-Palette: `raghaseye-shahr`
+Palette: `raghaseh`
 
-Palette: `raghase`
+
 
 <br>
 
@@ -228,9 +228,9 @@ Writer: Saeed Motalebi
 
 Star: Reza Beyk Imanverdi
 
-Palette: `yeki-khosh-seda-yeki-khosh-dast`
-
 Palette: `yeki`
+
+
 
 <br>
 
