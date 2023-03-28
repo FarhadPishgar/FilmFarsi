@@ -207,6 +207,10 @@ Palette: `raghaseh`
 Example:
 
 ``` r
+library(ggplot2)
+library(FilmFarsi)
+data("ToothGrowth")
+
 ggplot(ToothGrowth, aes(x = factor(dose), y = len, fill = factor(dose))) + 
   geom_boxplot() +
   theme_classic() +
