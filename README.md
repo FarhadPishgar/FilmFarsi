@@ -247,13 +247,15 @@ Example:
 ``` r
 library(ggplot2)
 library(FilmFarsi)
+data("mtcars")
 
-
-
-
-
-
-
+ggplot(mtcars[mtcars$carb != 8,], aes(x = wt, y = mpg, color = factor(carb))) + 
+  geom_point(size = 5) +
+  theme_classic() +
+  theme(legend.position = "top") +
+  stat_ellipse() +
+  labs(title = "MPGs according to car weights", x = "Car weight", y = "Miles per gallon") +
+  scale_color_manual(name = "Number of carburetors", values = FilmFarsi("yeki"))
 
 
 
