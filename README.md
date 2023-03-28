@@ -182,7 +182,7 @@ ggplot(ToothGrowth, aes(x = factor(dose), y = len, fill = factor(dose))) +
 
 ```
 
-### Raghaseye Shahr <img src="man/figure/palettes/raghaseye.png" align="right" width="452" />
+### Raghaseh-e Shahr <img src="man/figure/palettes/raghaseye.png" align="right" width="452" />
 
 <br><br><br><br><br>
 
