@@ -221,6 +221,7 @@ ggplot(ToothGrowth, aes(x = factor(dose), y = len, fill = factor(dose))) +
 
 
 
+
 ```
 
 ### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki.png" align="right" width="452" />
