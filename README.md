@@ -218,10 +218,10 @@ ggplot(ToothGrowth, aes(x = factor(dose), y = len, fill = factor(dose))) +
   scale_x_discrete(labels = c("0.5" = "0.5 mg/day", "1" = "1 mg/day", "2" = "2 mg/day")) +
   labs(title = "Tooth growth in Guinea pigs", x = "Dose levels of vitamin C", y = "Tooth growth") +
   scale_fill_manual(values = FilmFarsi("raghaseh"))
-  
-  
-  
-  
+
+
+
+ 
 ```
 
 ### Yeki Khosh Seda, Yeki Khosh Dast <img src="man/figure/palettes/yeki.png" align="right" width="452" />
