@@ -169,13 +169,15 @@ Example:
 ``` r
 library(ggplot2)
 library(FilmFarsi)
+data("ToothGrowth")
 
-
-
-
-
-
-
+ggplot(ToothGrowth, aes(x = factor(dose), y = len, fill = factor(dose))) + 
+  geom_boxplot() +
+  theme_classic() +
+  theme(legend.position = "none") +
+  scale_x_discrete(labels = c("0.5" = "0.5 mg/day", "1" = "1 mg/day", "2" = "2 mg/day")) +
+  labs(title = "Tooth growth in Guinea pigs", x = "Dose levels of vitamin C", y = "Tooth growth") +
+  scale_fill_manual(values = FilmFarsi("reza"))
 
 
 
