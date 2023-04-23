@@ -26,7 +26,7 @@ The `FilmFarsi` package includes around 30 different color palettes to choose fr
 
 <p align="center">
 
-<img src="man/figure/summary.png" width="150" />
+<img src="man/figure/summary.png" width="810" />
 
 </p>
 
