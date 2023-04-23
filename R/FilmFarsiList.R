@@ -21,6 +21,14 @@
 #' @export
 
 FilmFarsiList <- list(
+  alibigham = c("615091", "cd4828", "869358", "ecc75f", "a9725d"),
+  alisourchi = c("e0a390", "e9be4b", "5c476e", "ad2b2d", "5f613c"),
+  darrahkhoda = c("b5b471", "38639d", "ca4a7d"),
+  bineshan = c("f1e144", "515292", "7c1f38"),
+  dokhtarlor = c("cc4c3f", "295e6b"),
+  dokhtarimimirad = c("585065", "afa371", "bc615c")
+  
+  
   gav = c("#e8cf4d", "#004799"),
   marsieh = c("#8a7ea4", "#2a2a2c"),
   gavaznha = c("#b12c3f", "#393a3e"),
