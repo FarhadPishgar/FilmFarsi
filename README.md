@@ -24,9 +24,9 @@ The `FilmFarsi` package includes around 30 different color palettes to choose fr
 
 <p align="center">
 
-<img src="man/figure/palettes/alibigham.png" width="330"/>
-<img src="man/figure/palettes/alisourchi.png" width="330"/>
-<img src="man/figure/palettes/bedehdarrahkhoda.png" width="330"/>
+<img src="man/figure/palettes/alibigham.png" width="270"/>
+<img src="man/figure/palettes/alisourchi.png" width="270"/>
+<img src="man/figure/palettes/bedehdarrahkhoda.png" width="270"/>
 <img src="man/figure/palettes/bineshan.png" width="330"/>
 <img src="man/figure/palettes/dokhtarlor.png" width="330"/>
 <img src="man/figure/palettes/emshabdokhtarimimirad.png" width="330"/>
