@@ -1,0 +1,12 @@
+Package: FilmFarsi
+Title: Celebration of Pre-revolutionary Iranian Cinema
+Description: Provides color palettes inspired by posters of pre-revolutionary Iranian movies (please see <https://github.com/FarhadPishgar/FilmFarsi/> for details).
+Version: 0.0.1
+Author: person("Farhad", "Pishgar", role = c("aut", "cre"), email = "Farhad.Pishgar@Gmail.com")
+Maintainer: Farhad Pishgar <Farhad.Pishgar@Gmail.com>
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: R.rsp
+RoxygenNote: 7.2.3
+NeedsCompilation: no
