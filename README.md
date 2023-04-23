@@ -22,6 +22,16 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 The `FilmFarsi` package includes around 30 different color palettes to choose from.
 
+### Summary
+
+<p align="center">
+
+<img src="man/figure/summary.png" width="150" />
+
+</p>
+
+### Posters
+
 <p align="center">
 
 <img src="man/figure/palettes/alibigham.png" width="270"/>
