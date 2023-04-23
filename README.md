@@ -22,7 +22,18 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 The `FilmFarsi` package includes more than 10 different color palettes to choose from.
 
-### Gav <img src="man/figure/palettes/gav.png" align="right" width="452" />
+<p align="center">
+
+<img src="man/figure/palettes/alibigham.png" width="300"/>
+<img src="man/figure/palettes/alisourchi.png" width="300"/>
+<img src="man/figure/palettes/bedehdarrahkhoda.png" width="300"/>
+<img src="man/figure/palettes/bineshan.png" width="300"/>
+<img src="man/figure/palettes/dokhtarlor.png" width="300"/>
+<img src="man/figure/palettes/emshabdokhtarimimirad.png" width="300"/>
+
+
+
+</p>
 
 <br><br><br><br><br>
 
