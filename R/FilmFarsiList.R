@@ -26,12 +26,11 @@ FilmFarsiList <- list(
   darrahkhoda = c("b5b471", "38639d", "ca4a7d"),
   bineshan = c("f1e144", "515292", "7c1f38"),
   dokhtarlor = c("cc4c3f", "295e6b"),
-  dokhtarimimirad = c("585065", "afa371", "bc615c")
-  
-  
+  dokhtarimimirad = c("585065", "afa371", "bc615c"),
   gav = c("#e8cf4d", "#004799"),
-  marsieh = c("#8a7ea4", "#2a2a2c"),
   gavaznha = c("#b12c3f", "#393a3e"),
+
+  marsieh = c("#8a7ea4", "#2a2a2c"),
   reza = c("#d5cf5c", "#bb2a0b", "#636164"),
   raghaseh = c("#ba1721", "#446ea0", "#fdd53f"),
   yeki = c("#a4b5c9", "#456da0", "#506462", "#bf3b46", "#c67f5b")
