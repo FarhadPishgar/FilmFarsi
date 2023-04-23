@@ -71,6 +71,4 @@ The `FilmFarsi` package includes around 30 different color palettes to choose fr
 The structure of this package is based on works of [Katie Jolly](https://twitter.com/katiejolly6) and the [`NationalParkColors`](https://github.com/katiejolly/nationalparkcolors) package. The majority of images included in this package are sourced from the Iranian and Middle Eastern Movie Posters Collection, curated by [Hamid Naficy](https://communication.northwestern.edu/faculty/hamid-naficy.html) and housed in the University Archives of Northwestern University Libraries. These images are intended solely for use by students, faculty, staff, and other researchers for scholarly and research consultation purposes. Any commercial use or further distribution of the images is strictly prohibited.
 
 ## Author
-Farhad Pishgar
-
-[![](https://img.shields.io/badge/Twitter-success.svg?color=b12c3f&style=for-the-badge)](https://twitter.com/FarhadPishgar)
+[![](https://img.shields.io/badge/Farhad%20Pishgar-success.svg?color=b12c3f&style=for-the-badge)](https://twitter.com/FarhadPishgar)
