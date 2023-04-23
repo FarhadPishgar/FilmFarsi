@@ -20,7 +20,7 @@ devtools::install_github(repo = "FarhadPishgar/FilmFarsi")
 
 ## Palettes
 
-The `FilmFarsi` package includes more than 10 different color palettes to choose from.
+The `FilmFarsi` package includes around 30 different color palettes to choose from.
 
 <p align="center">
 
